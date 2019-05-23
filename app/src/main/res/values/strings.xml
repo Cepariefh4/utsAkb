@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UTS AKB</string>
+
+
+    <string name="profil">Profil</string>
+    <string name="kontak">Kontak</string>
+    <string name="teman">Teman</string>
+    <string name="komentar">21 Mei 2019 - 10116601 - Cecep Arief Habibudin - IF-7</string>
+    <string name="isi">Saya adalah anak pertama dari tiga bersaudara,
+                        sekarang saya sedang menempuh pendidik S1 di Perguruan Tinggi Swasta di kota Bandung
+                        yaitu Universitas Komputer Indonesia. Saya berumur 20 tahun, hobi saya selain makan,minum,ngopi dan tidur saya juga
+    suka bermain alat musik, Kendang salah satunya. Saya ikut UKM Musik di kampus yaitu UKM SADAYA. Di Sadaya, selain bermusik
+    saya juga belajar banyak hal, seperti berorganisasi, mengharmati senior, dll.</string>
+    <string-array name="array_technology">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Php</item>
+        <item>Hadoop</item>
+        <item>Sap</item>
+        <item>Python</item>
+        <item>Ajax</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>Rails</item>
+        <item>.Net</item>
+        <item>Perl</item>
+    </string-array>
+</resources>
